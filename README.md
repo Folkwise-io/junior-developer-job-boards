@@ -6,6 +6,7 @@ P.S. Jonathan is looking for work as a Jr. Web Dev! You can hire Jonathan by rea
 
 * [LinkedIn](https://www.linkedin.com/in/jonathan-chan8/) 
 * [Portfolio](https://jc-008.github.io/)
+* [Github](https://github.com/JC-008)
 
 # Mainstream Boards
 
