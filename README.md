@@ -27,6 +27,6 @@ P.S. Jonathan is looking for work as a Jr. Web Dev! You can hire Jonathan by rea
 * Google Search - You can use google and search for the job position you want. There should be a menu that you can select and it will bring you to a specific google search page.
   * <b><i>See below for an example</i></b>
 
-    <img src="google_job_search_details_LI.jpg" width="350">
+    <img src="google_job_search_details_LI.jpg" width="400">
 
-### <i>If there are any job board(s) you think that will help this club or the community, Please reach out to me for details to add it to this repo!</i>
+### <i>If there are any job board(s) you think that will help this club or the community, please reach out to me for details to add to this repo!</i>
