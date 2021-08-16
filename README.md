@@ -29,4 +29,4 @@ P.S. Jonathan is looking for work as a Jr. Web Dev! You can hire Jonathan by rea
 
     <img src="google_job_search_details_LI.jpg" width="400">
 
-### <i>If there are any job board(s) you think that will help this club or community, please reach out to me for details! </i> :smile:
+### <i>If there are any job board(s) you think that will help this club or community, please reach out to me for details! </i>  :slightly_smiling_face:
